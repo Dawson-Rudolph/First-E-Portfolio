@@ -1,0 +1,9 @@
+[
+  {
+    "title": "NBA Game & MVP Predictor",
+    "imageSrc": "projects/nba-logo.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Python", "Machine Learning", "Jupyter Notebooks", "Web Scraping", "Data Cleaning", "Data Manipulation"],
+    "source": "https://github.com/Dawson-Rudolph/NBA-Prediction"
+  }
+]

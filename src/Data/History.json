@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Regis Corporation",
+    "startDate": "August",
+    "endDate": "December, 2023",
+    "experiences": [],
+    "imageSrc": "history/regis-logo.jpeg"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Travelers",
+    "startDate": "June",
+    "endDate": "August, 2023",
+    "experiences": [],
+    "imageSrc": "history/Travelers-Emblem.jpg"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Minnesota State University Mankato",
+    "startDate": "January",
+    "endDate": "May, 2023",
+    "experiences": [],
+    "imageSrc": "history/mnsu-logo.png"
+  }
+]

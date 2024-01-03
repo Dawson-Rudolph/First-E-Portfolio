@@ -1,0 +1,12 @@
+:root {
+    /* Colors */
+    --color-text: #fff;
+    --color-primary: rgba(12,12,12,0.6);
+    --color-secondary: #444444;
+    --color-dark: #181E20;
+    --color-bg: #292929;
+
+    /* Fonts */
+    --font-roboto: "Roboto";
+    --font-merriweather : "Merriweather";
+}
